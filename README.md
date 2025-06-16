@@ -6,7 +6,7 @@ An Arduino-based password protection system using a 4x4 matrix Keypad and 16x2 L
 
 ## 🎥 Demo Video
 
-[📺 Watch the Demo](./demo.mp4)  
+[📺 Watch the Demo](LCD-Keypad-Password-Lock.mp4)  
 (If you're browsing on GitHub, download the video to watch)
 
 ---
@@ -35,5 +35,3 @@ An Arduino-based password protection system using a 4x4 matrix Keypad and 16x2 L
 3. If the password is correct → “Access Granted”.
 
 ---
-
-## 📁 Project Structure
